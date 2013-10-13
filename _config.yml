@@ -1,18 +1,18 @@
-title:            Site Title
-description:      Describe your website here.
+title:            "101010"
+description:      "Mi vida, mi mundo, mis pensamientos"
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+#url:              http://guillego.github.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Guillermo
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          ggalan3@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter: iamsiesta
   facebook:       
   github:         
   stackexchange:  
@@ -36,11 +36,6 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -66,4 +61,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "ejemplos", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
