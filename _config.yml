@@ -4,7 +4,7 @@ logo:             site-logo.png
 disqus_shortname: 
 search:           true
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://guillego.github.com
+url:              http://guillego.github.com
 
 # Owner/author information
 owner:
@@ -32,9 +32,11 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Inicio
+    url: /index.html
   - title: "Sobre mí"
     url: /about
-  - title: Artículos
+  - title: Archivo
     url: /articles
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
