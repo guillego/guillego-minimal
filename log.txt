@@ -28,3 +28,5 @@ sáb jul  5 00:00:07 CEST 2014
 Ended with success \r\n
 sáb jul  5 07:00:10 CEST 2014
 Ended with success \r\n
+dom jul  6 00:00:07 CEST 2014
+Ended with success \r\n
