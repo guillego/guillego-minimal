@@ -34,3 +34,5 @@ dom jul  6 07:00:05 CEST 2014
 Ended with success \r\n
 lun jul  7 00:00:08 CEST 2014
 Ended with success \r\n
+lun jul  7 07:00:04 CEST 2014
+Ended with success \r\n
