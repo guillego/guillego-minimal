@@ -40,3 +40,5 @@ mar jul  8 00:00:07 CEST 2014
 Ended with success \r\n
 mar jul  8 07:00:03 CEST 2014
 Ended with success \r\n
+mié jul  9 00:00:05 CEST 2014
+Ended with success \r\n
