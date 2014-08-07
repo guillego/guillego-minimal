@@ -158,3 +158,5 @@ mié ago  6 07:00:06 CEST 2014
 Ended with success \r\n
 jue ago  7 00:00:09 CEST 2014
 Ended with success \r\n
+jue ago  7 07:00:05 CEST 2014
+Ended with success \r\n
