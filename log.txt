@@ -164,3 +164,5 @@ vie ago  8 00:00:05 CEST 2014
 Ended with success \r\n
 vie ago  8 07:00:04 CEST 2014
 Ended with success \r\n
+sáb ago  9 00:00:04 CEST 2014
+Ended with success \r\n
