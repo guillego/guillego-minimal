@@ -172,3 +172,5 @@ dom ago 10 00:00:04 CEST 2014
 Ended with success \r\n
 dom ago 10 07:00:04 CEST 2014
 Ended with success \r\n
+lun ago 11 00:00:04 CEST 2014
+Ended with success \r\n
