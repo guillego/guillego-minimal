@@ -396,3 +396,5 @@ dom oct  5 00:00:07 CEST 2014
 Ended with success \r\n
 dom oct  5 07:00:06 CEST 2014
 Ended with success \r\n
+lun oct  6 00:00:06 CEST 2014
+Ended with success \r\n
