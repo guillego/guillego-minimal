@@ -506,3 +506,5 @@ sáb nov  1 07:00:03 CET 2014
 Ended with success \r\n
 dom nov  2 00:00:13 CET 2014
 Ended with success \r\n
+dom nov  2 07:00:03 CET 2014
+Ended with success \r\n
