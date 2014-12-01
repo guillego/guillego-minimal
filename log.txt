@@ -620,3 +620,5 @@ dom nov 30 00:00:15 CET 2014
 Ended with success \r\n
 dom nov 30 07:00:05 CET 2014
 Ended with success \r\n
+lun dic  1 00:00:08 CET 2014
+Ended with success \r\n
