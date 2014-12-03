@@ -628,3 +628,5 @@ mar dic  2 00:00:06 CET 2014
 Ended with success \r\n
 mar dic  2 07:00:04 CET 2014
 Ended with success \r\n
+mié dic  3 00:00:06 CET 2014
+Ended with success \r\n
