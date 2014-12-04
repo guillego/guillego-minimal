@@ -632,3 +632,5 @@ mié dic  3 00:00:06 CET 2014
 Ended with success \r\n
 mié dic  3 07:00:03 CET 2014
 Ended with success \r\n
+jue dic  4 00:00:05 CET 2014
+Ended with success \r\n
