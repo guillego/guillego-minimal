@@ -640,3 +640,5 @@ vie dic  5 00:00:08 CET 2014
 Ended with success \r\n
 vie dic  5 07:00:05 CET 2014
 Ended with success \r\n
+sáb dic  6 00:00:05 CET 2014
+Ended with success \r\n
