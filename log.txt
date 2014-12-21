@@ -702,3 +702,5 @@ sáb dic 20 07:00:03 CET 2014
 Ended with success \r\n
 dom dic 21 00:00:06 CET 2014
 Ended with success \r\n
+dom dic 21 07:00:06 CET 2014
+Ended with success \r\n
