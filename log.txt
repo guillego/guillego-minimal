@@ -760,3 +760,5 @@ dom ene  4 00:00:06 CET 2015
 Ended with success \r\n
 dom ene  4 07:00:04 CET 2015
 Ended with success \r\n
+lun ene  5 00:00:07 CET 2015
+Ended with success \r\n
