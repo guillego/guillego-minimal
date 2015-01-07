@@ -770,3 +770,5 @@ mar ene  6 07:00:04 CET 2015
 Ended with success \r\n
 mié ene  7 00:00:05 CET 2015
 Ended with success \r\n
+mié ene  7 07:00:05 CET 2015
+Ended with success \r\n
