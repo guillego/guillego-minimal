@@ -782,3 +782,5 @@ vie ene  9 07:00:04 CET 2015
 Ended with success \r\n
 sáb ene 10 00:00:04 CET 2015
 Ended with success \r\n
+sáb ene 10 07:00:03 CET 2015
+Ended with success \r\n
