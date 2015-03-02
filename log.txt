@@ -984,3 +984,5 @@ dom mar  1 00:00:09 CET 2015
 Ended with success \r\n
 dom mar  1 07:00:03 CET 2015
 Ended with success \r\n
+lun mar  2 00:00:10 CET 2015
+Ended with success \r\n
